@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  padding: 50px 130px;
+  height: 200px;
+  background-color: #D9D9D9;
+  display: flex;
+}
+
+nav {
+  margin-left: 287px;
+  display: flex;
+  align-items: center;
+  width: 715px;
+}
+
+ul {
+  display: flex;
+}
+
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  padding-left: 30px;
+  font-family: ALK Life;
+  font-weight: 400;
+  font-size: 24px;
+  color: #A62B28;
+}
